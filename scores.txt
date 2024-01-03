@@ -1,0 +1,39 @@
+epl,1992/1993
+Manchester United,84
+Nottingham Forest,40
+
+epl,1993/1994
+Manchester United,92
+Swindon Town,30
+
+epl,1994/1995
+Blackburn Rovers,89
+Ipswich Town,27
+
+epl,1995/1996
+Manchester United,82
+Bolton Wanderers,29
+
+epl,1996/1997
+Manchester United,75
+Nottingham Forest,34
+
+epl,1997/1998
+Arsenal,78
+Crystal Palace,33
+
+epl,1998/1999
+Manchester United,79
+Nottingham Forest,30
+
+epl,1999/2000
+Manchester United,91
+Watford,24
+
+
+
+
+
+
+
+
